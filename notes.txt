@@ -1,0 +1,16 @@
+- Use anchor images for the recipies
+    - <a href="#"><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="Three kittens running towards the camera."></a>
+
+- Use </figure> property for adding the name bellow the image.
+
+ <figure>
+  <img src="pic_trulli.jpg" alt="Trulli" style="width:100%">
+  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+</figure> 
+
+<figure>
+    <a href="#">
+        <img src="#" alt="blabla">
+    </a>
+    <figcaption>Lasagna 😋</figcaption>
+</figure>
